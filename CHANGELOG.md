@@ -1,4 +1,9 @@
 
+## v1.1.0 - 2026-04-05
+
+- Package author moved
+
+
 ## v1.0.3 - 2025-11-17
 
 - Configure goreleaser
